@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan2k4/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Aryan2k4/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Aryan2k4/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
 |  |
