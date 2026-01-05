@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aryan2k4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Aryan2k4/LeetCode/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aryan2k4/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Aryan2k4/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aryan2k4/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Aryan2k4/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aryan2k4/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1975-maximum-matrix-sum](https://github.com/Aryan2k4/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aryan2k4/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
@@ -103,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/Aryan2k4/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aryan2k4/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Aryan2k4/LeetCode/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
