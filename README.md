@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Aryan2k4/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Aryan2k4/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aryan2k4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aryan2k4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aryan2k4/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aryan2k4/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aryan2k4/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Aryan2k4/LeetCode/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Aryan2k4/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aryan2k4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Aryan2k4/LeetCode/tree/master/1390-four-divisors) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Aryan2k4/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Depth-First Search
 |  |
