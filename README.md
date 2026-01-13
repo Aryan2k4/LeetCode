@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Aryan2k4/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Aryan2k4/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aryan2k4/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3453-separate-squares-i](https://github.com/Aryan2k4/LeetCode/tree/master/3453-separate-squares-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aryan2k4/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aryan2k4/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [3453-separate-squares-i](https://github.com/Aryan2k4/LeetCode/tree/master/3453-separate-squares-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
