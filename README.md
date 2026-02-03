@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aryan2k4/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3637-trionic-array-i](https://github.com/Aryan2k4/LeetCode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aryan2k4/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
 |  |
