@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan2k4/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0840-magic-squares-in-grid](https://github.com/Aryan2k4/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Aryan2k4/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Aryan2k4/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aryan2k4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1980-find-unique-binary-string](https://github.com/Aryan2k4/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/Aryan2k4/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Aryan2k4/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aryan2k4/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Aryan2k4/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Aryan2k4/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Aryan2k4/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Aryan2k4/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aryan2k4/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Aryan2k4/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aryan2k4/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aryan2k4/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
