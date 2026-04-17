@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Aryan2k4/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aryan2k4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Aryan2k4/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aryan2k4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aryan2k4/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aryan2k4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Geometry
 |  |
 | ------- |
