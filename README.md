@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aryan2k4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Aryan2k4/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
