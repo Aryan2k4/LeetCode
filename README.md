@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aryan2k4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Aryan2k4/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aryan2k4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/Aryan2k4/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Aryan2k4/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aryan2k4/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aryan2k4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aryan2k4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aryan2k4/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryan2k4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aryan2k4/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Aryan2k4/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aryan2k4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
 | ------- |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aryan2k4/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aryan2k4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
