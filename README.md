@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aryan2k4/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Aryan2k4/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/Aryan2k4/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2784-check-if-array-is-good](https://github.com/Aryan2k4/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aryan2k4/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3488-closest-equal-element-queries](https://github.com/Aryan2k4/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aryan2k4/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Aryan2k4/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryan2k4/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Aryan2k4/LeetCode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Aryan2k4/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Aryan2k4/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aryan2k4/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Aryan2k4/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Aryan2k4/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Aryan2k4/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Aryan2k4/LeetCode/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/Aryan2k4/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aryan2k4/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Aryan2k4/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aryan2k4/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
