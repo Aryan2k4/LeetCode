@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aryan2k4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aryan2k4/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aryan2k4/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aryan2k4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aryan2k4/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aryan2k4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aryan2k4/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Aryan2k4/LeetCode/tree/master/2092-find-all-people-with-secret) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Aryan2k4/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryan2k4/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aryan2k4/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/3660-jump-game-ix) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryan2k4/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aryan2k4/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aryan2k4/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -425,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aryan2k4/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
 | ------- |
