@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Aryan2k4/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aryan2k4/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Aryan2k4/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/Aryan2k4/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Aryan2k4/LeetCode/tree/master/2751-robot-collisions) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aryan2k4/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aryan2k4/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Aryan2k4/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Matrix
