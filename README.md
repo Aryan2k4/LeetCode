@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aryan2k4/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Aryan2k4/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryan2k4/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/Aryan2k4/LeetCode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aryan2k4/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aryan2k4/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryan2k4/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Aryan2k4/LeetCode/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/Aryan2k4/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1840-maximum-building-height](https://github.com/Aryan2k4/LeetCode/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan2k4/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Aryan2k4/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aryan2k4/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Aryan2k4/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1340-jump-game-v) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aryan2k4/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/Aryan2k4/LeetCode/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryan2k4/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aryan2k4/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan2k4/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
