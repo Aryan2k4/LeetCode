@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aryan2k4/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Aryan2k4/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aryan2k4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Aryan2k4/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Aryan2k4/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aryan2k4/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aryan2k4/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aryan2k4/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -550,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Aryan2k4/LeetCode/tree/master/3161-block-placement-queries) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
