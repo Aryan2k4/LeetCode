@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan2k4/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Aryan2k4/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aryan2k4/LeetCode/tree/master/0066-plus-one) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aryan2k4/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryan2k4/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryan2k4/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
