@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryan2k4/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aryan2k4/LeetCode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Aryan2k4/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0136-single-number](https://github.com/Aryan2k4/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Aryan2k4/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryan2k4/LeetCode/tree/master/0283-move-zeroes) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Aryan2k4/LeetCode/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/Aryan2k4/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aryan2k4/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aryan2k4/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
