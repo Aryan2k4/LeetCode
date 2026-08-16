@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryan2k4/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Aryan2k4/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aryan2k4/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan2k4/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aryan2k4/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aryan2k4/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Aryan2k4/LeetCode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryan2k4/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aryan2k4/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Aryan2k4/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aryan2k4/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan2k4/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryan2k4/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Aryan2k4/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aryan2k4/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Aryan2k4/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryan2k4/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Aryan2k4/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Aryan2k4/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Aryan2k4/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -670,12 +674,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aryan2k4/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan2k4/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aryan2k4/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Aryan2k4/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Aryan2k4/LeetCode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
