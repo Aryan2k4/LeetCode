@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan2k4/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aryan2k4/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryan2k4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1563-stone-game-v) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aryan2k4/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aryan2k4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aryan2k4/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aryan2k4/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Aryan2k4/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Aryan2k4/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/Aryan2k4/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Aryan2k4/LeetCode/tree/master/1840-maximum-building-height) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Aryan2k4/LeetCode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aryan2k4/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1563-stone-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/Aryan2k4/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aryan2k4/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aryan2k4/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aryan2k4/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan2k4/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aryan2k4/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
