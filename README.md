@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Aryan2k4/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aryan2k4/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Aryan2k4/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Aryan2k4/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/Aryan2k4/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aryan2k4/LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Aryan2k4/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1340-jump-game-v) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Aryan2k4/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aryan2k4/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryan2k4/LeetCode/tree/master/0283-move-zeroes) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aryan2k4/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -697,4 +700,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Aryan2k4/LeetCode/tree/master/2029-stone-game-ix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan2k4/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aryan2k4/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
