@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan2k4/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Aryan2k4/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Aryan2k4/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aryan2k4/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aryan2k4/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Aryan2k4/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aryan2k4/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Aryan2k4/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Aryan2k4/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Aryan2k4/LeetCode/tree/master/0486-predict-the-winner) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan2k4/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Aryan2k4/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aryan2k4/LeetCode/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aryan2k4/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
