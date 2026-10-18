@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aryan2k4/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryan2k4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryan2k4/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aryan2k4/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aryan2k4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryan2k4/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Aryan2k4/LeetCode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/Aryan2k4/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Aryan2k4/LeetCode/tree/master/1840-maximum-building-height) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Aryan2k4/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan2k4/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Aryan2k4/LeetCode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1871-jump-game-vii](https://github.com/Aryan2k4/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aryan2k4/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aryan2k4/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryan2k4/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aryan2k4/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aryan2k4/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan2k4/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Aryan2k4/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Aryan2k4/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aryan2k4/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aryan2k4/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
@@ -726,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan2k4/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aryan2k4/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aryan2k4/LeetCode/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aryan2k4/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -758,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryan2k4/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3539-find-sum-of-array-product-of-magical-sequences](https://github.com/Aryan2k4/LeetCode/tree/master/3539-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
@@ -768,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Aryan2k4/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aryan2k4/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryan2k4/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryan2k4/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -859,4 +867,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryan2k4/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan2k4/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryan2k4/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
