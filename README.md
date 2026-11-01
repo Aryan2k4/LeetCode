@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aryan2k4/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryan2k4/LeetCode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Aryan2k4/LeetCode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan2k4/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Aryan2k4/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Aryan2k4/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aryan2k4/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Aryan2k4/LeetCode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Aryan2k4/LeetCode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan2k4/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aryan2k4/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan2k4/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aryan2k4/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
