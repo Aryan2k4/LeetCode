@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aryan2k4/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aryan2k4/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2747-count-zero-request-servers](https://github.com/Aryan2k4/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan2k4/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Array
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aryan2k4/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aryan2k4/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan2k4/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3453-separate-squares-i](https://github.com/Aryan2k4/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aryan2k4/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -633,10 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan2k4/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aryan2k4/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Aryan2k4/LeetCode/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan2k4/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Aryan2k4/LeetCode/tree/master/0085-maximal-rectangle) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan2k4/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
 | ------- |
@@ -645,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan2k4/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryan2k4/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/Aryan2k4/LeetCode/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan2k4/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -899,4 +904,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan2k4/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan2k4/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan2k4/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
