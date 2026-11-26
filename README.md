@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Aryan2k4/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryan2k4/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aryan2k4/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3360-stone-removal-game](https://github.com/Aryan2k4/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryan2k4/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aryan2k4/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Aryan2k4/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Aryan2k4/LeetCode/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryan2k4/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Aryan2k4/LeetCode/tree/master/3360-stone-removal-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aryan2k4/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Aryan2k4/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
